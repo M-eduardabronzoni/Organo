@@ -1,0 +1,14 @@
+
+.botao_envio {
+    width: 167px;
+    height: 80px;
+    background-color: #6278F7;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border:none;
+    font-family: 'Montserrat', sans-serif;
+    padding: 28px 29px 28px 29px;
+    margin-top: 5%;
+}

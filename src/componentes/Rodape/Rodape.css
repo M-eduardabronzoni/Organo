@@ -1,0 +1,26 @@
+.rodape-pg{
+    width: auto;
+    height: 213px;
+    background-color: #6278F7;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 162px;
+    padding-left: 162px;
+}
+
+.rodape-pg .redes-sociais{
+    display: flex;
+    gap: 34.62px
+}
+
+.rodape-pg .creditos {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.rodape-pg .logo{
+    padding-left: 12%;
+}
